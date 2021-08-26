@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(231, 118, 118);
+    margin:0;
+}
+.panda{
+    border:10px solid rgb(96, 79, 243);
+    margin:20px;
+    padding:15px;
+}
